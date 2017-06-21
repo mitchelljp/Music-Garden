@@ -1,0 +1,2 @@
+# Music Garden
+Built for a software development course at Macalester College, Music Garden is an app meant for musical exploration and relaxation. Essentially, you plant various flowers/plants to create a virtual garden that produces ambient music. I was the graphic/sound designer for the project, with sounds generated from scratch using software instruments in Ableton Live and graphic resources built in Adobe Illustrator. The app itself was a JavaScript/HTML5 web app, built with Paper.js (graphics) and Howler.js(audio). 
